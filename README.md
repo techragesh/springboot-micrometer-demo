@@ -72,6 +72,7 @@ All you know, **Swagger** takes the manual work out of API documentation, with a
             <artifactId>springfox-swagger-ui</artifactId>
             <version>${springfox-version}</version>
         </dependency>
+        
 ```
 Note: I have excluded mapstruct because i used mapstruct explicitly
 
