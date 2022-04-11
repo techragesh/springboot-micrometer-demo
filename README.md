@@ -49,6 +49,11 @@ Also I have used **swagger**, **lombok** and **mapstruct** dependencies.
 
 Let me explain some key points while using this.
 
+Run
+```
+./mvnw spring-boot:run
+```
+
 **_Swagger:_**
 
 All you know, **Swagger** takes the manual work out of API documentation, with a range of solutions for generating, visualizing, and maintaining API docs.
